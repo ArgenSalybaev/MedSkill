@@ -2,16 +2,13 @@
     margin: 0;
     padding: 0;
 }
-#header{
-    margin: 0;
-}
+
+
 .container{
     width: 100%;
     margin: 0 auto;
 
 }
-
-
 .Blockcall24{
     margin-left: -110px;
 
@@ -30,12 +27,13 @@
 
 }
 .Phone2{
-    padding: 0 0 200px 850px;
+    padding: 0 0 200px 800px;
     margin-top: -1000px;
 }
 .headerBlock{
     display: flex;
     justify-content: space-around;
+    padding: 180px 0 0 0;
 }
 .headerMed{
     padding: 0 0 0 150px;
@@ -46,5 +44,41 @@
     font-size: 50px;
     line-height: 61px;
     color: #FFFFFF;
-    padding: ;
+    margin-top: -400px;
+    width: 650px;
+    padding: 0 0 80px 150px;
+}
+.Call{
+    background: #F0F0F0;
+    box-shadow: -0.63587px 6.3587px 6.3587px rgba(87, 101, 228, 0.25), inset -1.27174px -1.27174px 2.54348px rgba(0, 0, 0, 0.2), inset 1.90761px 2.54348px 6.3587px #FFFFFF;
+    border-radius: 9.53804px;
+    font-family: 'Montserrat' , sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    color: #16AEC0;
+    padding: 15px 70px;
+    margin-left: 150px;
+    margin-top: 15px;
+    border: none;
+}
+.Block1{
+    padding: 0 0 0 50px;
+}
+.Block4{
+    padding: 0 50px 0 0;
+}
+.Map{
+    background: #F3FEFF;
+}
+.MapStreet{
+    padding: 100px 0 0 800px;
+    margin-top: -700px;
+}
+.MapBlock{
+    background: #E9FDFF;
+    box-shadow: 0 4px 19px -3px rgba(0, 0, 0, 0.25);
+    border-radius: 54px;
+    padding: 500px 0 200px 200px;
+
 }
