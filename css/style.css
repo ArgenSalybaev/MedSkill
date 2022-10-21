@@ -6,14 +6,45 @@
     margin: 0;
 }
 .container{
-    width: 90%;
+    width: 100%;
     margin: 0 auto;
+
 }
-.Blockcall{
-    padding: 55px 10px;
-    border-radius: 30px;
-}
+
+
 .Blockcall24{
     margin-left: -110px;
 
+
+}
+.Phone{
+    width: 1519px;
+    height: 902px;
+
+}
+.bus{
+    padding: 0 0 0 800px;
+}
+.PhoneBlock{
+    margin-top: -800px;
+
+}
+.Phone2{
+    padding: 0 0 200px 850px;
+    margin-top: -1000px;
+}
+.headerBlock{
+    display: flex;
+    justify-content: space-around;
+}
+.headerMed{
+    padding: 0 0 0 150px;
+    margin-top: -200px;
+}
+.headertext{
+    font-family: 'Montserrat' , sans-serif;
+    font-size: 50px;
+    line-height: 61px;
+    color: #FFFFFF;
+    padding: ;
 }
